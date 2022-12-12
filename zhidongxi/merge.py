@@ -1,12 +1,12 @@
 # -*- coding: utf-8 -*-
 # 
-# @Author  : white.tie
+# @Author  : tyj
 # @Time    : 2022/12/9 13:38
 # @File: merge.py
 import os
 
 
-def write_filelist(dirs_path= r"D:\my code\xcc_course\zhidongxi\video"):
+def write_filelist(dirs_path= r"D:\my code\course\zhidongxi\video"):
     """
     dirs_path: ts文件所在目录
     @return:
